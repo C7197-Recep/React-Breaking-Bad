@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Breaking-Bad/static/css/main.e913b4d5.chunk.css",
+    "main.js": "/React-Breaking-Bad/static/js/main.36af3762.chunk.js",
+    "main.js.map": "/React-Breaking-Bad/static/js/main.36af3762.chunk.js.map",
+    "runtime-main.js": "/React-Breaking-Bad/static/js/runtime-main.a4c852d5.js",
+    "runtime-main.js.map": "/React-Breaking-Bad/static/js/runtime-main.a4c852d5.js.map",
+    "static/js/2.aba3ab56.chunk.js": "/React-Breaking-Bad/static/js/2.aba3ab56.chunk.js",
+    "static/js/2.aba3ab56.chunk.js.map": "/React-Breaking-Bad/static/js/2.aba3ab56.chunk.js.map",
+    "static/js/3.23260fab.chunk.js": "/React-Breaking-Bad/static/js/3.23260fab.chunk.js",
+    "static/js/3.23260fab.chunk.js.map": "/React-Breaking-Bad/static/js/3.23260fab.chunk.js.map",
+    "index.html": "/React-Breaking-Bad/index.html",
+    "static/css/main.e913b4d5.chunk.css.map": "/React-Breaking-Bad/static/css/main.e913b4d5.chunk.css.map",
+    "static/js/2.aba3ab56.chunk.js.LICENSE.txt": "/React-Breaking-Bad/static/js/2.aba3ab56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c852d5.js",
+    "static/js/2.aba3ab56.chunk.js",
+    "static/css/main.e913b4d5.chunk.css",
+    "static/js/main.36af3762.chunk.js"
+  ]
+}
